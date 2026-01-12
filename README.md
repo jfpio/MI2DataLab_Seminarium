@@ -20,7 +20,7 @@ Join us at https://meet.drwhy.ai.
 * 01.12 - Dawid Płudowski
 * 08.12 - Kamil Książek
 * 15.12 - Monthly sync meeting (Bartek Sobieski, Jakub Grzywaczewski, Michał Włodarczyk)
-* 12.01 - Agata Kaczmarek
+* 12.01 - [Emergent Misalignment: Controlling Persona Drift with Vectors and Inoculation](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_01_12-mitigation-of-emergent-misalignment.pdf) - Jan Piotrowski
 * 19.01 - Monthly sync meeting (Kamil Książek, Bartosz Kochański, Agata Kaczmarek)
 * 19.01 - Retro meeting
 
